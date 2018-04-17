@@ -14,13 +14,13 @@ Just run in the terminal:
 ```shell
 ./export_coinmarketcap.py
 ```
-export_coinmarketcap.py requires code modification to change input parameters.
+You need to modify parameters inside export_coinmarketcap.py to change inputs.
 
 * `csv_of_cryptocurrencies` is a CSV list of (case-insensitive) names of the currencies / tokens as displayed on CoinMarketCap, with dashes in place of spaces
 * `startdate` is the beginning of the range to fetch data for. For example, 2017-10-01 (for 2017 October 10th)
 * `enddate` is the end of the range to fetch data for. 
 
-Default data:
+Default inputs:
 csv_of_cryptocurrencies = 'cryptos.csv', uploaded in this repository. It includes a list of all cryptocurrencies listed on coinmarketcap as of 2018-04-16.
 startdate = 2014-12-30
 enddate = 2018-04-17
