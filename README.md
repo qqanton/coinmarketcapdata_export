@@ -1,6 +1,6 @@
 # Coinmarketcap Price Data Export
 
-The script that builds upon a modified coinmarket scraper (https://github.com/jhogan4288/coinmarketcap-history). It allows to export CSV's of price data on multiple cryptocurrencies listed on coinmarketcap.
+The script that builds upon a modified coinmarketcap scraper (https://github.com/jhogan4288/coinmarketcap-history). It allows to export CSV's of price data on multiple cryptocurrencies listed on coinmarketcap.
 
 # Installation
 
