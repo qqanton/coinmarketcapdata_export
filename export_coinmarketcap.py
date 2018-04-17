@@ -3,7 +3,7 @@ import coinmarketcap_usd_history
 import csv
 
 
-# List of all cryptocurrencies from coinmarket cap (1-column)
+# Parameters
 csv_of_cryptocurrencies = 'cryptos.csv' 
 startdate = '2014-12-30'
 enddate = '2018-04-17'
