@@ -4,11 +4,11 @@ export_coinmarketcap.py a script that builds upon a modified coinmarket scraper 
 
 Run export_coinmarketcap.py, modifying following parameters:
 
-# csv_of_cryptocurrencies = 'cryptos.csv' 
+## csv_of_cryptocurrencies = 'cryptos.csv' 
 Can be any CSV containing a list of cryptocurrencies 
 
-# startdate = '2014-12-30'
+## startdate = '2014-12-30'
 Start date of price collection
 
-# enddate = '2018-04-17'
+## enddate = '2018-04-17'
 End date of price collection
