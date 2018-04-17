@@ -21,6 +21,6 @@ You need to modify parameters inside export_coinmarketcap.py to change inputs.
 * `enddate` is the end of the range to fetch data for. 
 
 Default inputs:
-csv_of_cryptocurrencies = 'cryptos.csv', uploaded in this repository. It includes a list of all cryptocurrencies listed on coinmarketcap as of 2018-04-16.
-startdate = 2014-12-30
-enddate = 2018-04-17
+* csv_of_cryptocurrencies = 'cryptos.csv', uploaded in this repository. It includes a list of all cryptocurrencies listed on coinmarketcap as of 2018-04-16.
+* startdate = 2014-12-30
+* enddate = 2018-04-17
